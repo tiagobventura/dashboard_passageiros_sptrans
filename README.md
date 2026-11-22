@@ -2,7 +2,7 @@
 ## Painel Executivo do Transporte Público Base: Julho/2026.
 
 <p>Projeto desenvolvido para realização de análise da movimentação de passageiros na cidade de São Paulo, filtrando por grupo operacional, lote, empresa e linha, o dashboard permite a visualização de informações a respeito do total de passageiros transportados, separando por perfil tarifário: gratuidade, pagantes e integração.</p>
-<p>Há a possibilidade analisar a participação do grupo operacional em relação a quantidade de passageiros transportados, como verificar o grupo operacional pelo perfil tarifário.</p>
+<p>Há a possibilidade de analisar a participação do grupo operacional em relação a quantidade de passageiros transportados, como verificar o grupo operacional pelo perfil tarifário.</p>
 <p>Tem a listagem das 10 empresas operadoras, baseadas nos filtros, indica a quantidade de passageiros transportados.</p>
 <p>Tem a listagem das linhas mais passageiros transportados, baseado nos filtros.</p>
 <p>No mix tarifário tem a possibilidade de analisar a concentração do tipo tarifário considerando integração, bilhete único, vale transporte.</p>
